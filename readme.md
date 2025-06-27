@@ -1,6 +1,3 @@
-# 💫 About Me:
-Mi primer repositorio en GitHub<br><br>I love 🍕 and 🎮<br><br>mi ultima linea en mi reposito<br><br>nueva actividad<br><br>finalizando con GitHub
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valentinbertolone@gmail.com) 
