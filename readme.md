@@ -123,29 +123,6 @@ Projects involving website development, programming logic, database integration,
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Valentin-bertolone&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-## ✍️ Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Valentin-bertolone/Valentin-bertolone/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
 
 <p align="center">
 <strong>💻 Building projects, learning every day, and improving one commit at a time.</strong>
