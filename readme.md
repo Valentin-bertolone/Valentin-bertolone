@@ -12,25 +12,6 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Valentin Bertolone"
-        self.role = "Software Developer"
-        self.languages = ["Python", "JavaScript", "Java"]
-        self.backend = ["Node.js", "PHP"]
-        self.databases = ["PostgreSQL", "MySQL", "SQL"]
-        self.tools = ["Git", "GitHub", "VS Code", "Postman"]
-        self.current_focus = "Backend Development"
-        self.motto = "Code. Learn. Improve. Repeat."
-
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-
-me = Developer()
-me.say_hi()
-```
-
 - 💻 Passionate about programming and software development.
 - 🐍 Interested in Python and backend development.
 - 🌐 Developing web applications with JavaScript and Node.js.
@@ -108,13 +89,6 @@ A collaborative project focused on restaurant management, including order proces
 
 **Technologies:** Python · SQL · PostgreSQL · Git
 
-### 🏋️ PowerZone Gym
-**Gym Website**
-
-A modern gym website designed to display classes, schedules, contact information, and student access.
-
-**Technologies:** HTML · CSS · JavaScript · Sass
-
 ### 🌐 Web Development Projects
 **Frontend & Backend Applications**
 
@@ -133,14 +107,6 @@ Projects involving website development, programming logic, database integration,
 
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Valentin-bertolone&theme=shadow_red&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Valentin-bertolone&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
