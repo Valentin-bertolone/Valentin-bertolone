@@ -110,26 +110,9 @@ Projects involving website development, programming logic, database integration,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valentin-bertolone&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-bertolone&layout=compact&theme=shadow_red&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Valentin-bertolone&theme=shadow_red&hide_border=true"/>
-</p>
-
----
-
 
 <p align="center">
 <strong>💻 Building projects, learning every day, and improving one commit at a time.</strong>
-</p>
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Valentin-bertolone&icon=2&color=11"/>
 </p>
 
 <!-- README designed for Valentin Bertolone --> 
