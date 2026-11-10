@@ -9,9 +9,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
-
 ## 🐺 Team
 
 <p align="center">
@@ -22,6 +19,10 @@
   <strong>🐺 Proud member of Escuadrón Lobo</strong><br>
   <i>Collaborating, coding, and building projects together.</i>
 </p>
+
+---
+
+## 🚀 About Me
 
 - 💻 Passionate about programming and software development.
 - 🐍 Interested in Python and backend development.
