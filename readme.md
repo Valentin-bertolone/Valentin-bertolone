@@ -12,6 +12,17 @@
 
 ## 🚀 About Me
 
+## 🐺 Team
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-Escuadrón%20Lobo-black?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <strong>🐺 Proud member of Escuadrón Lobo</strong><br>
+  <i>Collaborating, coding, and building projects together.</i>
+</p>
+
 - 💻 Passionate about programming and software development.
 - 🐍 Interested in Python and backend development.
 - 🌐 Developing web applications with JavaScript and Node.js.
